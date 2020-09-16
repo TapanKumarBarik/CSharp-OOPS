@@ -1,6 +1,5 @@
 ## Types
 
-```python
 <div class="w3-responsive" style="margin:-16px 0;">
 <table class="w3-table-all notranslate">
 <tbody>
@@ -29,4 +28,4 @@ You will learn more about this in a later chapter</td>
 </tbody>
 </table>
 </div>
-```
+
